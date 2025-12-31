@@ -45,7 +45,8 @@ Relationships:
 2. Execute the SQL file: `employee_management.sql`
 3. Run queries step by step
 ## 🧩 ER Diagram
-![ER Diagram](diagrams/er_diagram.png)
+![ER Diagram](er_diagram.png)
+
 
 
 
