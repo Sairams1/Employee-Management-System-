@@ -47,6 +47,20 @@ Relationships:
 ## 🧩 ER Diagram
 ![ER Diagram](er_diagram.png)
 
+## 📸 Screenshots
+
+### Database Tables
+![Tables](workbench_tables.png)
+
+### INNER JOIN Query
+![Join](join_query.png)
+
+### Stored Procedure Execution
+![Procedure](procedure_call.png)
+
+### Trigger Execution
+![Trigger](trigger_output.png)
+
 
 
 
